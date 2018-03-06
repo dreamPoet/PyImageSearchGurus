@@ -1,1 +1,2 @@
-#PyImageSearchGurus Course
+# PyImageSearchGurus Course
+
